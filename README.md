@@ -51,6 +51,9 @@
     10. Does std::endl fix your multithreaded prints? (C++) (20K views, 1 year ago, 8:56)
     11. Merge K Sorted Lists using a C++ Heap | Hard LeetCode Interview Question (2K views, 2 years ago, 14:00)
 
+[VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
+[AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
+
 ## Advices
 
 [ SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
