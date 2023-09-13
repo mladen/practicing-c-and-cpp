@@ -1,5 +1,13 @@
 # Practicing C, C++ (in general as well as game dev etc.)
 
+- [Practicing C, C++ (in general as well as game dev etc.)](#practicing-c-c-in-general-as-well-as-game-dev-etc)
+  - [C and C++ tutorials](#c-and-c-tutorials)
+  - [Advices](#advices)
+  - [People making games in C and C++](#people-making-games-in-c-and-c)
+  - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
+  - [Machine learning in C/C++](#machine-learning-in-cc)
+  - [Interesting channels](#interesting-channels)
+
 ## C and C++ tutorials
 
 [Nathan Baggs (playlist) - Learn C++](https://www.youtube.com/playlist?list=PLmm8GpQIMryB7jTaH1CcMYWRiET-7NshO)
