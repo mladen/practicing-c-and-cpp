@@ -82,8 +82,6 @@
 
 ## People making games in C and C++
 
-- [Low Level Game Dev - How to make cross-platform games/apps in C++](https://www.youtube.com/watch?v=Bzj35LjmQ2g)
-
 [codegopher (playlist) - C++/SDL2 RPG Physics Based 2D Platformer for Beginners Tutorial](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)
 
 1. Setting up SDL2 on Windows (155K views, 3 years ago, 31:08)
@@ -109,6 +107,7 @@
 ## Advices about making games in C and C++
 
 - [LowLevelGameDev - If you want to learn how to make games in C++ watch this (All the resources you need to get started)](https://www.youtube.com/watch?v=7qm4OR3EmnQ)
+- [Low Level Game Dev - How to make cross-platform games/apps in C++](https://www.youtube.com/watch?v=Bzj35LjmQ2g)
 - [Goodgis - How to Make Games that are ACTUALLY Fun](https://www.youtube.com/watch?v=CFfx5YOJ4ss)
 
 ## Machine learning in C/C++
