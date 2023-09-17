@@ -4,9 +4,11 @@
   - [C and C++ tutorials](#c-and-c-tutorials)
     - [Pointers (of course)](#pointers-of-course)
   - [Advices](#advices)
-  - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
-  - [People making games in C and C++](#people-making-games-in-c-and-c)
-  - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
+  - [Making games](#making-games)
+    - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
+    - [People making games in C and C++](#people-making-games-in-c-and-c)
+    - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
+    - [Theory (mathematics + physics):](#theory-mathematics--physics)
   - [Machine learning in C/C++](#machine-learning-in-cc)
   - [Interesting channels](#interesting-channels)
   - [Interesting videos](#interesting-videos)
@@ -83,7 +85,9 @@
 
 - [mCoding - 31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
 
-## Making games and game engines in C and C++
+## Making games
+
+### Making games and game engines in C and C++
 
 [pikuma - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
@@ -94,7 +98,7 @@
     5. How C++ Vector Works (13K views, 10 months ago, 1:14:34)
     6. Creating a Game Loop with C & SDL (Tutorial) (11K views, 4 months ago, 1:50:46)
 
-## People making games in C and C++
+### People making games in C and C++
 
 [codegopher (playlist) - C++/SDL2 RPG Physics Based 2D Platformer for Beginners Tutorial](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)
 
@@ -120,11 +124,15 @@
 
 - [Carl the Person - Showing my 3D game written in C using SDL2 (no engine)](https://www.youtube.com/watch?v=Pj0_O94ES_o)
 
-## Advices about making games in C and C++
+### Advices about making games in C and C++
 
 - [LowLevelGameDev - If you want to learn how to make games in C++ watch this (All the resources you need to get started)](https://www.youtube.com/watch?v=7qm4OR3EmnQ)
 - [Low Level Game Dev - How to make cross-platform games/apps in C++](https://www.youtube.com/watch?v=Bzj35LjmQ2g)
 - [Goodgis - How to Make Games that are ACTUALLY Fun](https://www.youtube.com/watch?v=CFfx5YOJ4ss)
+
+### Theory (mathematics + physics):
+
+https://en.wikipedia.org/wiki/2D_computer_graphics
 
 ## Machine learning in C/C++
 
