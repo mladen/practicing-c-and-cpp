@@ -198,6 +198,9 @@
 
 ### Making games and game engines in C and C++
 
+- [Barji - Making a C++ Game with No Experience!](https://www.youtube.com/watch?v=4-sX-TtRR98)
+- [Floky - Learning C++ by making a Game... in 1 Week?!](https://www.youtube.com/watch?v=y27SHJh706A)
+
 [pikuma - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
     1. Tools to make a Game Engine in C++ (36K views, 1 year ago, 48:03)
