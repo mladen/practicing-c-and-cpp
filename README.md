@@ -118,7 +118,7 @@
       57. Static Arrays in C++ (std::array) (97K views, 5 years ago, 10:39)
       58. Function Pointers in C++ (348K views, 5 years ago, 12:41)
       59. Lambdas in C++ (298K views, 5 years ago, 11:54)
-      60. Why I dont "using namespace std" (370K views, 5 years ago, 14:35)
+      60. Why I don't "using namespace std" (370K views, 5 years ago, 14:35)
       61. Namespaces in C++ (173K views, 5 years ago, 13:17)
       62. Threads in C++ (324K views, 5 years ago, 11:35)
       63. Timing in C++ (161K views, 5 years ago, 11:15)
@@ -164,6 +164,7 @@
 - [Programming with Mosh - C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
 - [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
 - [AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
+- [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
 
 ### Pointers (of course)
 
@@ -190,6 +191,8 @@
   - Verilog (1984) | VHDL (1980) [Hardware]
 
 - [mCoding - 31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
+
+- [CodeBeauty - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions](https://www.youtube.com/watch?v=etQX4Mme2f4)
 
 ## Making games
 
