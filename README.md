@@ -1,6 +1,7 @@
 # Practicing C, C++ (in general as well as game dev etc.)
 
 - [Practicing C, C++ (in general as well as game dev etc.)](#practicing-c-c-in-general-as-well-as-game-dev-etc)
+  - [Roadmaps](#roadmaps)
   - [C and C++ tutorials](#c-and-c-tutorials)
     - [Pointers (of course)](#pointers-of-course)
   - [Advices](#advices)
@@ -13,6 +14,10 @@
   - [Interesting channels](#interesting-channels)
   - [Interesting videos](#interesting-videos)
   - [Usefull links](#usefull-links)
+
+## Roadmaps
+
+- [MyCodingDays - Roadmap for C++ Software Engineer in 2023](https://www.youtube.com/watch?v=_M-xELrWTQ0)
 
 ## C and C++ tutorials
 
@@ -193,8 +198,9 @@
   - Verilog (1984) | VHDL (1980) [Hardware]
 
 - [mCoding - 31 nooby C++ habits you need to ditch](https://www.youtube.com/watch?v=i_wDa2AS_8w)
-
 - [CodeBeauty - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions](https://www.youtube.com/watch?v=etQX4Mme2f4)
+
+- [The Downsides Of C++ | Prime Reacts](https://www.youtube.com/watch?v=nNSUxac6vGo)
 
 ## Making games
 
