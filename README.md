@@ -23,12 +23,6 @@
 
 - [ ] [freecodeCamp - Guiraffe Academy - C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
-- [Nathan Baggs (playlist) - Learn C++](https://www.youtube.com/playlist?list=PLmm8GpQIMryB7jTaH1CcMYWRiET-7NshO)
-
-  - [ ] 1. How to quickly get started with C++ (617 views, 3 months ago, 3:02)
-  - [ ] 2. How does a compiler work? (3.6K views, 4 months ago, 3:43)
-  - [ ] 3. What Are The C++ Fundamental Types? (450 views, 3 months ago, 6:14)
-
 - [Nathan Baggs (playlist) - Programming](https://www.youtube.com/playlist?list=PLmm8GpQIMryBpGjbl9vsjA_eYDu836YDI)
 
   - [ ] 1. Trying to outperform Rust (876 views, 11 days ago, 4:55)
@@ -63,6 +57,12 @@
   - [ ] 9. Return Value Optimization and Copy Elision in C++ (28K views, 9 months ago, 9:54)
   - [ ] 10. Does std::endl fix your multithreaded prints? (C++) (20K views, 1 year ago, 8:56)
   - [ ] 11. Merge K Sorted Lists using a C++ Heap | Hard LeetCode Interview Question (2K views, 2 years ago, 14:00)
+
+- [Nathan Baggs (playlist) - Learn C++](https://www.youtube.com/playlist?list=PLmm8GpQIMryB7jTaH1CcMYWRiET-7NshO)
+
+  - [ ] 1. How to quickly get started with C++ (617 views, 3 months ago, 3:02)
+  - [ ] 2. How does a compiler work? (3.6K views, 4 months ago, 3:43)
+  - [ ] 3. What Are The C++ Fundamental Types? (450 views, 3 months ago, 6:14)
 
 - [The Cherno (playlist) - C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
@@ -251,6 +251,7 @@
 ### Theory (mathematics + physics):
 
 https://en.wikipedia.org/wiki/2D_computer_graphics
+https://en.wikipedia.org/wiki/Rotation_matrix
 
 ## Machine learning in C/C++
 
