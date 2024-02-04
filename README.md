@@ -7,9 +7,10 @@
   - [Advices](#advices)
   - [Making games](#making-games)
     - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
-    - [People making games in C and C++](#people-making-games-in-c-and-c)
     - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
-    - [Theory (mathematics + physics):](#theory-mathematics--physics)
+    - [Theory (mathematics + physics)](#theory-mathematics--physics)
+    - [Showcasing games made in C and C++](#showcasing-games-made-in-c-and-c)
+  - [Showcasing projects made in C and C++](#showcasing-projects-made-in-c-and-c)
   - [Machine learning in C/C++](#machine-learning-in-cc)
   - [Interesting channels](#interesting-channels)
   - [Interesting videos](#interesting-videos)
@@ -17,13 +18,13 @@
 
 ## Roadmaps
 
-- [MyCodingDays - Roadmap for C++ Software Engineer in 2023](https://www.youtube.com/watch?v=_M-xELrWTQ0)
+- [ ] [MyCodingDays - Roadmap for C++ Software Engineer in 2023](https://www.youtube.com/watch?v=_M-xELrWTQ0)
 
 ## C and C++ tutorials
 
 - [ ] [freecodeCamp - Guiraffe Academy - C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
-- [Nathan Baggs (playlist) - Programming](https://www.youtube.com/playlist?list=PLmm8GpQIMryBpGjbl9vsjA_eYDu836YDI)
+- [ ] [Nathan Baggs (playlist) - Programming](https://www.youtube.com/playlist?list=PLmm8GpQIMryBpGjbl9vsjA_eYDu836YDI)
 
   - [ ] 1. Trying to outperform Rust (876 views, 11 days ago, 4:55)
   - [ ] 2. How does a compiler work? (3.6K views, 4 months ago, 3:43)
@@ -33,7 +34,7 @@
   - [ ] 6. I made the same game in Assembly, C and C++ (356K views, 9 months ago, 4:20)
   - [ ] 7. Why C++? (24K views, 10 months ago, 4:41)
 
-- [freeCodeCamp (playlist) - C / C++](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m)
+- [ ] [freeCodeCamp (playlist) - C / C++](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmUE5IqyfGYEYjrZBYzaT4m)
 
   - [ ] 1. C Programming Tutorial for Beginners (9.6M views, 5 years ago, 3:46:13)
   - [ ] 2. C++ Tutorial for Beginners - Full Course (11M views, 4 years ago, 4:01:19)
@@ -44,7 +45,7 @@
   - [ ] 7. Pointers in C / C++ [Full Course] (2.9M views, 2 years ago, 3:47:23)
   - [ ] 8. C Programming Language - Intro to Computer Science - Harvard's CS50 (2018) (978K views, 4 years ago, 2:13:17)
 
-- [mCoding (playlist) - C/C++](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG)
+- [ ] [mCoding (playlist) - C/C++](https://www.youtube.com/playlist?list=PLJ_usHaf3fgM5vOBPY-hXAjUy6SbgE-KG)
 
   - [ ] 1. 31 nooby C++ habits you need to ditch (474K views, 1 year ago, 16:18)
   - [ ] 2. The ONLY C keyword with no C++ equivalent (131K views, 2 years ago, 13:17)
@@ -58,13 +59,13 @@
   - [ ] 10. Does std::endl fix your multithreaded prints? (C++) (20K views, 1 year ago, 8:56)
   - [ ] 11. Merge K Sorted Lists using a C++ Heap | Hard LeetCode Interview Question (2K views, 2 years ago, 14:00)
 
-- [Nathan Baggs (playlist) - Learn C++](https://www.youtube.com/playlist?list=PLmm8GpQIMryB7jTaH1CcMYWRiET-7NshO)
+- [ ] [Nathan Baggs (playlist) - Learn C++](https://www.youtube.com/playlist?list=PLmm8GpQIMryB7jTaH1CcMYWRiET-7NshO)
 
   - [ ] 1. How to quickly get started with C++ (617 views, 3 months ago, 3:02)
   - [ ] 2. How does a compiler work? (3.6K views, 4 months ago, 3:43)
   - [ ] 3. What Are The C++ Fundamental Types? (450 views, 3 months ago, 6:14)
 
-- [The Cherno (playlist) - C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [ ] [The Cherno (playlist) - C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
   - [ ] 1. Welcome to C++ (1.7M views, 6 years ago, 7:05)
   - [ ] 2. How to Setup C++ on Windows (807K views, 6 years ago, 8:36)
@@ -168,27 +169,26 @@
   - [ ] 100. Maps in C++ (std::map and std::unordered_map) (151K views, 1 year ago, 30:00)
   - [ ] 101. What exactly is NULL? (170K views, 9 months ago, 18:06)
 
-- [Programming with Mosh - C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
-- [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
-- [AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
-- [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
+- [ ] [Programming with Mosh - C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
+- [ ] [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
+- [ ] [AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
+- [ ] [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
 
 ### Pointers (of course)
 
-- [Low Level Learning - you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
-- [Low Level Learning - you will never ask about pointer arithmetic after watching this video](https://www.youtube.com/watch?v=q24-QTbKQS8)
-- [Low Level Learning - so... what even is a "reference"?](https://www.youtube.com/watch?v=wro8Bb6JnwU)
-- [Low Level Learning - are "smart pointers" actually smart?](https://www.youtube.com/watch?v=tSIBKys2eBQ)
-- [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
-- [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
+- [ ] [Low Level Learning - you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+- [ ] [Low Level Learning - you will never ask about pointer arithmetic after watching this video](https://www.youtube.com/watch?v=q24-QTbKQS8)
+- [ ] [Low Level Learning - so... what even is a "reference"?](https://www.youtube.com/watch?v=wro8Bb6JnwU)
+- [ ] [Low Level Learning - are "smart pointers" actually smart?](https://www.youtube.com/watch?v=tSIBKys2eBQ)
+- [ ] [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
+- [ ] [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
 
 ## Advices
 
-- [The Cherno - BEST WAY to read and understand code](https://www.youtube.com/watch?v=XTZVbmz7LpY)
-- [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
-- [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
-- [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
-
+- [ ] [The Cherno - BEST WAY to read and understand code](https://www.youtube.com/watch?v=XTZVbmz7LpY)
+- [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
+- [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
+- [ ] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
   - Assembly (1949) [Imperative Programming]
   - C (1972) [Imperative Programming]
   - Python (1991) [Imperative Programming]
@@ -196,19 +196,19 @@
   - Haskell (1990) [Functional Programming]
   - Coq (1989) [Dependently Typed]
   - Verilog (1984) | VHDL (1980) [Hardware]
-
-- [CodeBeauty - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions](https://www.youtube.com/watch?v=etQX4Mme2f4)
-
-- [The Downsides Of C++ | Prime Reacts](https://www.youtube.com/watch?v=nNSUxac6vGo)
+- [ ] [CodeBeauty - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions](https://www.youtube.com/watch?v=etQX4Mme2f4)
+- [ ] [The Downsides Of C++ | Prime Reacts](https://www.youtube.com/watch?v=nNSUxac6vGo)
+- [ ] [Acerola - Game Development Tutorials Are LYING To You](https://www.youtube.com/watch?v=BJvoaBeqVm0)
 
 ## Making games
 
 ### Making games and game engines in C and C++
 
-- [Barji - Making a C++ Game with No Experience!](https://www.youtube.com/watch?v=4-sX-TtRR98)
-- [Floky - Learning C++ by making a Game... in 1 Week?!](https://www.youtube.com/watch?v=y27SHJh706A)
+- [ ] [Barji - Making a C++ Game with No Experience!](https://www.youtube.com/watch?v=4-sX-TtRR98)
+- [ ] [Floky - Learning C++ by making a Game... in 1 Week?!](https://www.youtube.com/watch?v=y27SHJh706A)
+- [ ] [AngetTheGreat - Building a Physics Engine with C++ and Simulating Machines](https://www.youtube.com/watch?v=TtgS-b191V0)
+- [ ] [pikuma - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
-- [pikuma - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
   - [ ] 1. Tools to make a Game Engine in C++ (36K views, 1 year ago, 48:03)
   - [ ] 2. Why do we use SDL with C & C++? (30K views, 2 years ago, 16:26)
   - [ ] 3. C++ Objects: Stack vs. Heap (5.3K views, 2 years ago, 15:02)
@@ -216,9 +216,7 @@
   - [ ] 5. How C++ Vector Works (13K views, 10 months ago, 1:14:34)
   - [ ] 6. Creating a Game Loop with C & SDL (Tutorial) (11K views, 4 months ago, 1:50:46)
 
-### People making games in C and C++
-
-- [codegopher (playlist) - C++/SDL2 RPG Physics Based 2D Platformer for Beginners Tutorial](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)
+- [ ] [codegopher (playlist) - C++/SDL2 RPG Physics Based 2D Platformer for Beginners Tutorial](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS)
 
   - [ ] 1. Setting up SDL2 on Windows (155K views, 3 years ago, 31:08)
   - [ ] 2. Setting up on Linux (37K views, 3 years ago, 24:46)
@@ -231,7 +229,7 @@
   - [ ] 9. Vector2f Class (16K views, 3 years ago, 16:55)
   - [ ] 10. Timestepping (29K views, 2 years ago, 23:12)
 
-- [Nathat Baggs (playlist) - Game Engine](https://www.youtube.com/playlist?list=PLmm8GpQIMryDmnDddL35jh27F3TjtJghz)
+- [ ] [Nathat Baggs (playlist) - Game Engine](https://www.youtube.com/playlist?list=PLmm8GpQIMryDmnDddL35jh27F3TjtJghz)
 
   - [ ] 1. How games fake smooth graphics (569 views, 1 month ago, 3:17)
   - [ ] 2. Build a game engine in 48 hours (4.2K views, 2 months ago, 7:33)
@@ -240,18 +238,35 @@
   - [ ] 5. What's inside my game engine? (13K views, 11 months ago, 8:45)
   - [ ] 6. I made an RPG from scratch (3.6K views, 1 year ago, 3:29)
 
-- [Carl the Person - Showing my 3D game written in C using SDL2 (no engine)](https://www.youtube.com/watch?v=Pj0_O94ES_o)
+- [ ] [Carl the Person - Showing my 3D game written in C using SDL2 (no engine)](https://www.youtube.com/watch?v=Pj0_O94ES_o)
+- [ ] [Kofybrek - Making a Platformer with INFINITE JUMPS in C++ - SFML Gamedev - Devlog 1](https://www.youtube.com/watch?v=Df-U3BjlnDo)
+- [ ] [Kebab - 2 Months of Learning How to Code for Games with SFML / C++](https://www.youtube.com/watch?v=kbVn7Jdhl3Y)
+- [ ] [javidx9 - Coding Quickie: Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U)
+- [ ] [Hexel - Making my own 3D GAME ENGINE and GAME in 48 HOURS? C++ OPENGL](https://www.youtube.com/watch?v=NYW1TKZG-58)
+- [ ] [Byte of Michael - 3 Months of Learning Game Development](https://www.youtube.com/watch?v=x5wndRdBowo)
 
 ### Advices about making games in C and C++
 
 - [LowLevelGameDev - If you want to learn how to make games in C++ watch this (All the resources you need to get started)](https://www.youtube.com/watch?v=7qm4OR3EmnQ)
 - [Low Level Game Dev - How to make cross-platform games/apps in C++](https://www.youtube.com/watch?v=Bzj35LjmQ2g)
 - [Goodgis - How to Make Games that are ACTUALLY Fun](https://www.youtube.com/watch?v=CFfx5YOJ4ss)
+- [graphicsrush - Should you learn SDL, SFML, or GLFW? (or GLUT)](https://www.youtube.com/watch?v=zQUYsMYElC0)
 
-### Theory (mathematics + physics):
+### Theory (mathematics + physics)
 
 https://en.wikipedia.org/wiki/2D_computer_graphics
 https://en.wikipedia.org/wiki/Rotation_matrix
+
+### Showcasing games made in C and C++
+
+- [Snapi - One year of my C++ SFML journey](https://www.youtube.com/watch?v=XxBZw2FEdK0)
+- [Paul Lipczyk - My recent C++ Projects](https://www.youtube.com/watch?v=_YjqdXH18o8)
+- [Pezzza's Work - Creating a Space Invaders clone using my C++ engine and SFML](https://www.youtube.com/watch?v=sQOW6sDblI4)
+- [Gravityontained - My C++/SFML Compilation](https://www.youtube.com/watch?v=ApgMNAApdR4)
+
+## Showcasing projects made in C and C++
+
+- [Kofybrek - Visualizing PATHFINDING Algorithms in C++ - SFML Devlog](https://www.youtube.com/watch?v=W1qvb86YOK0)
 
 ## Machine learning in C/C++
 
