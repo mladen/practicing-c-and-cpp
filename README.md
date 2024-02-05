@@ -11,6 +11,9 @@
     - [Theory (mathematics + physics)](#theory-mathematics--physics)
     - [Showcasing games made in C and C++](#showcasing-games-made-in-c-and-c)
   - [Showcasing projects made in C and C++](#showcasing-projects-made-in-c-and-c)
+  - [PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)](#project-ideas-lets-try-to-make-them-in-c-for-now-then-in-c-maaybee)
+    - [Creative project ideas](#creative-project-ideas)
+    - [Ideas for games](#ideas-for-games)
   - [Machine learning in C/C++](#machine-learning-in-cc)
   - [Interesting channels](#interesting-channels)
   - [Interesting videos](#interesting-videos)
@@ -71,7 +74,7 @@
   - [ ] 2. How to Setup C++ on Windows (807K views, 6 years ago, 8:36)
   - [ ] 3. How to Setup C++ on Mac (393K views, 6 years ago, 3:29)
   - [ ] 4. How to Setup C++ on Linux (329K views, 6 years ago, 8:12)
-  - [ ] 5. How C++ Works (968K views, 6 years ago, 20:21)
+  - [ ] 5. How C++ Works (968K views, 6 years ago, 20:21) [TODO: Start with this video]
   - [ ] 6. How the C++ Compiler Works (706K views, 6 years ago, 17:55)
   - [ ] 7. How the C++ Linker Works (546K views, 6 years ago, 15:52)
   - [ ] 8. Variables in C++ (392K views, 6 years ago, 13:46)
@@ -210,10 +213,47 @@
 
 ### Making games and game engines in C and C++
 
+- [ ] [Kofybrek - Making my First RAYCASTING Game in C++ - SFML Gamedev - Devlog 1](https://www.youtube.com/watch?v=LUYxLjic0Bc)
+- [ ] [Kofybrek - Making SUPER MARIO BROS in C++ - SFML Gamedev - Devlog 1](https://www.youtube.com/watch?v=7D4uoSoQsjw)
 - [ ] [Barji - Making a C++ Game with No Experience!](https://www.youtube.com/watch?v=4-sX-TtRR98)
 - [ ] [Floky - Learning C++ by making a Game... in 1 Week?!](https://www.youtube.com/watch?v=y27SHJh706A)
 - [ ] [AngetTheGreat - Building a Physics Engine with C++ and Simulating Machines](https://www.youtube.com/watch?v=TtgS-b191V0)
-- [ ] [pikuma - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
+- [ ] [Dave Churchill (playlist) - COMP 4300 - Intro to C++ Game Programming (2023-09)](https://www.youtube.com/playlist?list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK)
+
+  > 23 videos 50,930 views Last updated on 2 Jan 2024
+  > Memorial University - Computer Science 4300 - Fall 2023
+  > Intro to Game Programming
+  > Professor: David Churchill - http://www.cs.mun.ca/~dchurchill/
+  >
+  > This is a course for students interested in learning the fundamentals of game programming and game engine architecture. Topics include an introduction to: vector math for games, rendering, animation, and artificial intelligence, collision detection, game physics, and user-interfaces. Students will be writing fully functional games using an ECS (Entities, Components, Systems) architecture, using the C++ programming language and the SFML graphics library.
+  >
+  > Course Assignments / Files will not be released publicly
+
+  - [ ] 1. COMP4300 - Game Programming - Lecture 01 - Course Introduction (25K views, 4 months ago, 1:09:16)
+  - [ ] 2. COMP4300 - Game Programming - Lecture 02 - Intro to C++ (1/2) (12K views, 4 months ago, 2:07:08)
+  - [ ] 3. COMP4300 - Game Programming - Lecture 03 - Intro to C++ (2/2) (7.2K views, 4 months ago, 1:52:05)
+  - [ ] 4. COMP4300 - Game Programming - Lecture 04 - Assignment 1 (6.4K views, 4 months ago, 1:12:09)
+  - [ ] 5. COMP4300 - Game Programming - Lecture 04a - SFML / ImGui Tutorial (3.7K views, 4 months ago, 1:13:59)
+  - [ ] 6. COMP4300 - Game Programming - Lecture 05 - Intro to ECS (4.4K views, 4 months ago, 1:11:32)
+  - [ ] 7. COMP4300 - Game Programming - Lecture 06 - EntityManager + Game Math (3.7K views, 4 months ago, 1:10:25)
+  - [ ] 8. COMP4300 - Game Programming - Lecture 07 - Assignment 2 (3.1K views, 4 months ago, 1:12:55)
+  - [ ] 9. COMP4300 - Game Programming - Lecture 08 - Collision Detection (2.3K views, 3 months ago, 53:22)
+  - [ ] 10. COMP4300 - Game Programming - Lecture 09 - Sprites / Textures / Animations (2K views, 3 months ago, 1:06:14)
+  - [ ] 11. COMP4300 - Game Programming - Lecture 10 - Actions and Replays (1.6K views, 3 months ago, 50:06)
+  - [ ] 12. COMP4300 - Game Programming - Lecture 11 - Assignment 3 (2.2K views, 3 months ago, 1:33:26)
+  - [ ] 13. COMP4300 - Game Programming - Lecture 12 - Course Project Explained (960 views, 3 months ago, 1:08:23)
+  - [ ] 14. COMP4300 - Game Programming - Lecture 13 - Ray Casting, Lighting, Vision (1.1K views, 3 months ago, 52:38)
+  - [ ] 15. COMP4300 - Game Programming - Lecture 14 - Game Cameras / Views (925 views, 3 months ago, 57:02)
+  - [ ] 16. COMP4300 - Game Programming - Lecture 15 - Pathfinding and Steering (1K views, 3 months ago, 1:11:42)
+  - [ ] 17. COMP4300 - Game Programming - Lecture 16 - Saving, Tools, Drag and Drop (903 views, 2 months ago, 1:11:47)
+  - [ ] 18. COMP4300 - Game Programming - Lecture 17 - Assignment 4 (1.1K views, 2 months ago, 1:11:04)
+  - [ ] 19. COMP4300 - Game Programming - Lecture 18 - Advanced Game Loops (1.3K views, 2 months ago, 1:01:56)
+  - [ ] 20. COMP4300 - Game Programming - Lecture 19 - Caching + ECS Memory Pool (1.2K views, 2 months ago, 1:13:06)
+  - [ ] 21. COMP4300 - Game Programming - Lecture 20 - C++ Visual Code Profiling (1.1K views, 2 months ago, 1:27:12)
+  - [ ] 22. COMP4300 - Game Programming - Lecture 21 - Intro to Shaders (1.9K views, 2 months ago, 1:10:18)
+  - [ ] 23. COMP4300 - Game Programming - Lecture 22 - Vertex Arrays and Particle Systems (2.7K views, 2 months ago, 1:04:54)
+
+- [ ] [pikuma (playlist) - C++ & Game Engines](https://www.youtube.com/playlist?list=PLYnrabpSIM--J2A1gsBmgjHfp9g9rb7vu)
 
   - [ ] 1. Tools to make a Game Engine in C++ (36K views, 1 year ago, 48:03)
   - [ ] 2. Why do we use SDL with C & C++? (30K views, 2 years ago, 16:26)
@@ -274,9 +314,60 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 - [Kofybrek - Visualizing PATHFINDING Algorithms in C++ - SFML Devlog](https://www.youtube.com/watch?v=W1qvb86YOK0)
 
+## PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)
+
+### Creative project ideas
+
+- Cellular automata
+
+  - [The Coding Train - Coding Challenge #135: The Game of Life](https://www.youtube.com/watch?v=FWSR_7kZuYg)
+
+  - [Softology - 3D Cellular Automata](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
+  - [Hopson (playlist) - Creating Cellular Automaton](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZT6LBaef6n2CZ0fGHMrEht)
+
+    > 7 videos 5,429 views Last updated on 9 Nov 2020
+
+    - [ ] 1. Coding Wireworld Cellular Automaton in C++/SFML (58K views, 5 years ago, 5:09)
+    - [ ] 2. Coding Brian's Brain Cellular Automaton in C++/SFML (20K views, 5 years ago, 2:29)
+    - [ ] 3. Coding "Langton's Ant" Cellular Automaton in C++/ SFML (38K views, 6 years ago, 4:03)
+    - [ ] 4. Coding "Empire" Cellular Automaton in C++/SFML - Part 2 (128K views, 6 years ago, 6:32)
+    - [ ] 5. Coding "Empire" Cellular Automaton in C++/SFML (294K views, 6 years ago, 9:23)
+    - [ ] 6. Coding "Conway's Game of Life" Cellular Automaton in C++/ SFML (63K views, 6 years ago, 4:28)
+    - [ ] 7. Coding "Predator And Prey" Cellular Automaton in C++/ SFML (104K views, 6 years ago, 5:13)
+
+  - Falling sand
+    - [GDC - Exploring the Tech and Design of Noita](https://www.youtube.com/watch?v=prXuyMCgbTc)
+    - [The Coding Train - Coding Challenge 180: Falling Sand](https://www.youtube.com/watch?v=L4u7Zy_b868)
+    - [John Jackson - Recreating Noita's Sand Simulation in C and OpenGL | Game Engineering](https://www.youtube.com/watch?v=VLZjd_Y1gJ8)
+    - [MARF - How To Code a Falling Sand Simulation (like Noita) with Cellular Automata](https://www.youtube.com/watch?v=5Ka3tbbT-9E)
+
+- 3D engine in C
+  - [3DSage - Let's Program Doom - Part 1](https://www.youtube.com/watch?v=huMO4VQEwPc)
+  - [3DSage - Let's Program Doom - Part 2](https://www.youtube.com/watch?v=fRu8kjXvkdY)
+  - [Bisqwit - Creating a Doom-style 3D engine in C (2015)](https://www.youtube.com/watch?v=HQYsFshbkYw)
+  - [Bisqwit - I wrote an OpenGL first-person demo for DOS (256 colors, dithering, OSMesa) (2011)](https://www.youtube.com/watch?v=vkUwT9U1GzA)
+
+### Ideas for games
+
+- Space Mission Simulator
+
+  - Spaceflight Simulator
+    - [Google Play link](https://play.google.com/store/apps/details?id=com.StefMorojna.SpaceflightSimulator)
+  - Space Agency
+    - [Google Play link](https://play.google.com/store/apps/details?id=com.nooleus.android.spaceagency)
+  - Galaxy on Fire 2
+    - [Google Play link](https://play.google.com/store/apps/details?id=net.fishlabs.gof2hdallandroid2012)
+  - [Check other space simulators](https://en.softonic.com/top/space-games-for-android)
+
+- Silly games (simple, fun, addictive, but still challenging)
+  - Cut The Rope
+    - [Google Play link](https://play.google.com/store/apps/details?id=com.zeptolab.ctr.ads&hl=en&gl=US)
+    - [(YouTube) Cut the Rope Full Gameplay Walkthrough](https://www.youtube.com/watch?v=7HgssdcI-EM)
+
 ## Machine learning in C/C++
 
-- [Tsoding Daily - Machine Learning in C](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw)
+- [Kofybrek - Training my First NEURAL NETWORK in C++ - AI Devlog](https://www.youtube.com/watch?v=Zrrnqd0rCXg)
+- [Tsoding Daily (playlist) - Machine Learning in C](https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw)
 
   - [ ] 1. Machine Learning in C (Episode 1) (142K views, 3 months ago, 2:31:07)
   - [ ] 2. Making a New Deep Learning Framework (ML in C Ep.02) (38K views, 3 months ago, 3:07:01)
@@ -296,6 +387,7 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 - [mCoding - programming, mathematics, Leetcode](https://www.youtube.com/@mCoding)
 - [Emergent Garden - Life simulations, neural networks, cellular automata, and other emergent programs](https://www.youtube.com/@EmergentGarden)
+- [3DSage - I make 3D printing, 3D coding, 3D animation, and beyond!](http://www.youtube.com/@3DSage)
 
 ## Interesting videos
 
@@ -303,4 +395,10 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ## Usefull links
 
+Programming
+
 - https://godbolt.org/ - Code Explorer
+
+Visualization
+
+- https://beesandbombs.tumblr.com/ - Bees & Bombs
