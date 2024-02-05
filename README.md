@@ -185,6 +185,12 @@
 
 ## Advices
 
+- [x] [Low Lever Learning - the TRUTH about C++ (is it worth your time?)](https://www.youtube.com/watch?v=q1ZmFc-sqNc)
+  - Learn C first
+    - Don't learn C++ first (if it's your first language). Learn the fundamentals of memory management and control flow in C first. Then simplify your code with upgrades from the abstractions that the C++ language provides.
+  - Don't use C++ features just because they exist
+    - Use them because they solve a problem you have.
+  - Learn a type safe language like Rust.
 - [ ] [The Cherno - BEST WAY to read and understand code](https://www.youtube.com/watch?v=XTZVbmz7LpY)
 - [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
 - [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
