@@ -4,14 +4,17 @@
   - [Roadmaps](#roadmaps)
   - [C and C++ tutorials](#c-and-c-tutorials)
     - [Pointers (of course)](#pointers-of-course)
+    - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Advices](#advices)
   - [Making games](#making-games)
+    - [General](#general)
     - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
     - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
     - [Theory (mathematics + physics)](#theory-mathematics--physics)
     - [Showcasing games made in C and C++](#showcasing-games-made-in-c-and-c)
   - [Showcasing projects made in C and C++](#showcasing-projects-made-in-c-and-c)
   - [PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)](#project-ideas-lets-try-to-make-them-in-c-for-now-then-in-c-maaybee)
+    - [Sorting algorithms](#sorting-algorithms)
     - [Creative project ideas](#creative-project-ideas)
     - [Ideas for games](#ideas-for-games)
   - [Machine learning in C/C++](#machine-learning-in-cc)
@@ -25,6 +28,8 @@
 
 ## C and C++ tutorials
 
+- [ ] [Eskil Steenberg - Modern C development with Visual studio in 2023.](https://www.youtube.com/watch?v=CxKujAuz2Vw)
+- [ ] [Eskil Steenberg - How I program C (2016)](https://www.youtube.com/watch?v=443UNeGrFoM)
 - [ ] [freecodeCamp - Guiraffe Academy - C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
 - [ ] [Nathan Baggs (playlist) - Programming](https://www.youtube.com/playlist?list=PLmm8GpQIMryBpGjbl9vsjA_eYDu836YDI)
@@ -186,6 +191,11 @@
 - [ ] [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
 - [ ] [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
 
+### Stack, Heap, Memory, etc.
+
+- [ ] [Alex Hyett - Stack vs Heap Memory - Simple Explanation](https://www.youtube.com/watch?v=5OJRqkYbK-4)
+- [ ] [Core Dumped - WHY IS THE STACK SO FAST?](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+
 ## Advices
 
 - [x] [Low Lever Learning - the TRUTH about C++ (is it worth your time?)](https://www.youtube.com/watch?v=q1ZmFc-sqNc)
@@ -211,13 +221,22 @@
 
 ## Making games
 
+### General
+
+- [ ] [My GameDev Pal - My 1 Year Game Dev Journey - From School to Sea of Thieves](https://www.youtube.com/watch?v=FH6oEwmEgnk)
+
 ### Making games and game engines in C and C++
 
 - [ ] [Kofybrek - Making my First RAYCASTING Game in C++ - SFML Gamedev - Devlog 1](https://www.youtube.com/watch?v=LUYxLjic0Bc)
 - [ ] [Kofybrek - Making SUPER MARIO BROS in C++ - SFML Gamedev - Devlog 1](https://www.youtube.com/watch?v=7D4uoSoQsjw)
+- [ ] [pinyok - Indie game devlog #1 - Combining C++ and LUA scripting](https://www.youtube.com/watch?v=5_e-NWpBouI)
 - [ ] [Barji - Making a C++ Game with No Experience!](https://www.youtube.com/watch?v=4-sX-TtRR98)
+- [ ] [Zyger - I Made A Physics Engine](https://www.youtube.com/watch?v=az4Oyv8ZS7I)
 - [ ] [Floky - Learning C++ by making a Game... in 1 Week?!](https://www.youtube.com/watch?v=y27SHJh706A)
 - [ ] [AngetTheGreat - Building a Physics Engine with C++ and Simulating Machines](https://www.youtube.com/watch?v=TtgS-b191V0)
+- [ ] [AngeTheGreat - Making My Physics Engine 10x Faster and Simulating Trusses](https://www.youtube.com/watch?v=oulfRfqTxJA)
+- [ ] [AngeTheGreat - Major Improvements to Steam Engine Simulator](https://www.youtube.com/watch?v=ndUyNJEk4ng)
+- [ ] [blackedout01 - Deriving 3D Rigid Body Physics and implementing it in C/C++ (with intuitions)](https://www.youtube.com/watch?v=4r_EvmPKOvY)
 - [ ] [Dave Churchill (playlist) - COMP 4300 - Intro to C++ Game Programming (2023-09)](https://www.youtube.com/playlist?list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK)
 
   > 23 videos 50,930 views Last updated on 2 Jan 2024
@@ -316,12 +335,19 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ## PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)
 
+### Sorting algorithms
+
+- [Fireship - Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
+
 ### Creative project ideas
+
+- Beginning graphics
+
+  - [Dave's Garage - Coding Graphics in C: SetPixel, LineDraw, Moire and More!](https://www.youtube.com/watch?v=2bVhyB7Av8s)
 
 - Cellular automata
 
   - [The Coding Train - Coding Challenge #135: The Game of Life](https://www.youtube.com/watch?v=FWSR_7kZuYg)
-
   - [Softology - 3D Cellular Automata](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
   - [Hopson (playlist) - Creating Cellular Automaton](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZT6LBaef6n2CZ0fGHMrEht)
 
@@ -340,6 +366,19 @@ https://en.wikipedia.org/wiki/Rotation_matrix
     - [The Coding Train - Coding Challenge 180: Falling Sand](https://www.youtube.com/watch?v=L4u7Zy_b868)
     - [John Jackson - Recreating Noita's Sand Simulation in C and OpenGL | Game Engineering](https://www.youtube.com/watch?v=VLZjd_Y1gJ8)
     - [MARF - How To Code a Falling Sand Simulation (like Noita) with Cellular Automata](https://www.youtube.com/watch?v=5Ka3tbbT-9E)
+    - [polarsbear668 - Simple Sand Simulation in C++](https://www.youtube.com/shorts/eCACHSYmF8A)
+
+- Simulations
+
+  - Gravity simulation
+    - [William Y. Feng - Quadtrees and The Barnes-Hut Algorithm: The Making of a Gravity Simulation](https://www.youtube.com/watch?v=tOlKLJ4WmSE)
+    - [The Coding Train - Coding Challenge #98.1: Quadtree - Part 1](https://www.youtube.com/watch?v=OJxEcs0w_kE)
+    - [The Coding Train - Coding Challenge #98.2: Quadtree - Part 2](https://www.youtube.com/watch?v=QQx_NmCIuCY)
+    - [The Coding Train - Coding Challenge #98.3: Quadtree - Part 3](https://www.youtube.com/watch?v=z0YFFg_nBjw)
+    - [MrHeyheyhey27 - Quadtree Explanation](https://www.youtube.com/watch?v=jxbDYxm-pXg)
+    - [Zipped - C++: Orbital Gravity Simulation Tutorial [Part 2: Math & Physics Breakdown]](https://www.youtube.com/watch?v=jgQWR273Sj0)
+  - Soft body simulation
+    - [Gonkee - Soft Body Physics Explained](https://www.youtube.com/watch?v=kyQP4t_wOGI)
 
 - 3D engine in C
   - [3DSage - Let's Program Doom - Part 1](https://www.youtube.com/watch?v=huMO4VQEwPc)
@@ -349,6 +388,12 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ### Ideas for games
 
+- Breakout
+
+  - [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
+
+- Space shooter
+- Snake
 - Space Mission Simulator
 
   - Spaceflight Simulator
@@ -358,6 +403,10 @@ https://en.wikipedia.org/wiki/Rotation_matrix
   - Galaxy on Fire 2
     - [Google Play link](https://play.google.com/store/apps/details?id=net.fishlabs.gof2hdallandroid2012)
   - [Check other space simulators](https://en.softonic.com/top/space-games-for-android)
+
+- Platformer
+
+  - [GolderEvolution - How I made an Excellent Platformer (Unity)](https://www.youtube.com/watch?v=Oet5jqoX14E)
 
 - Silly games (simple, fun, addictive, but still challenging)
   - Cut The Rope
