@@ -23,6 +23,7 @@
     - [Ideas for games](#ideas-for-games)
   - [Machine learning in C/C++](#machine-learning-in-cc)
   - [Interesting channels](#interesting-channels)
+  - [Platforms for learning](#platforms-for-learning)
   - [Interesting videos](#interesting-videos)
   - [Usefull links](#usefull-links)
 
@@ -34,6 +35,7 @@
 
 ### General
 
+- [ ] [Low Level Game Dev - How To Start or Continue Learning C++](https://www.youtube.com/watch?v=20GWt8DdJRc)
 - [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
 - [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
 - [x] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
@@ -92,6 +94,31 @@
   - [ ] 1. How to quickly get started with C++ (617 views, 3 months ago, 3:02)
   - [ ] 2. How does a compiler work? (3.6K views, 4 months ago, 3:43)
   - [ ] 3. What Are The C++ Fundamental Types? (450 views, 3 months ago, 6:14)
+
+- [ ] [Charles Cabergs (playlist) - Advanced C](https://www.youtube.com/playlist?list=PL71Y0EmrppR0KyZvQWj63040UEzKQU7n8)
+
+  - [ ] 1. Advanced C #1: Function Pointers (12K views • 5 months ago, 11:22)
+  - [ ] 2. Advanced C #2: Bit Flags (2K views • 5 months ago, 6:17)
+  - [ ] 3. Advanced C #3: void Pointers (1.3K views • 5 months ago, 7:47)
+  - [ ] 4. Advanced C #4: Long Number Separator (855 views • 5 months ago, 0:44)
+  - [ ] 5. Advanced C #5: sizeof (717 views • 5 months ago, 4:02)
+  - [ ] 6. Advanced C #6: Lookup Tables (4.5K views • 5 months ago, 7:30)
+  - [ ] 7. Advanced C #7: Tagged Unions (993 views • 5 months ago, 5:39)
+  - [ ] 8. Advanced C #8: Bit Fields (744 views • 5 months ago, 6:26)
+  - [ ] 9. Advanced C #9: String Literal VS char Array (790 views • 5 months ago, 3:44)
+  - [ ] 10. Advanced C #10: Number Literals (437 views • 5 months ago, 4:17)
+  - [ ] 11. Advanced C #11: Variable Argument List (551 views • 5 months ago, 6:00)
+  - [ ] 12. Advanced C #12: printf (506 views • 5 months ago, 19:51)
+  - [ ] 13. Advanced C #13: Macros Caveats (429 views • 5 months ago, 7:12)
+  - [ ] 14. Advanced C #14: Macro Stringify And Tokenize (571 views • 5 months ago, 7:02)
+  - [ ] 15. Advanced C #15: Anonymous Struct And Array (792 views • 5 months ago, 4:13)
+  - [ ] 16. Advanced C #16: Macro Variable Arguments (355 views • 5 months ago, 3:06)
+  - [ ] 17. Advanced C #17: Variable Length Array (VLA) (758 views • 5 months ago, 5:24)
+  - [ ] 18. Advanced C #18: Dollar (895 views • 5 months ago, 0:50)
+  - [ ] 19. Advanced C #19: Split String (629 views • 5 months ago, 7:30)
+  - [ ] 20. Advanced C #20: Error Handling (2.7K views • 5 months ago, 7:57)
+  - [ ] 21. Advanced C #21: Read a file line by line with getline (522 views • 3 days ago, 8:45)
+  - [ ] 22. Advanced C #22: Regular Expressions (173 views • 9 hours ago, 13:38)
 
 - [ ] [The Cherno (playlist) - C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
 
@@ -361,7 +388,10 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ## Showcasing projects made in C and C++
 
+- [Alex - I made a Compiler in 25 Days - Here is what I learned](https://www.youtube.com/watch?v=l3AeN4wQirE)
 - [Kofybrek - Visualizing PATHFINDING Algorithms in C++ - SFML Devlog](https://www.youtube.com/watch?v=W1qvb86YOK0)
+- [Cococry - Make a GUI Calculator in C like a real Chad](https://www.youtube.com/watch?v=2oJTEpc9qmc)
+- [(text) Making a 3D modeler in C in a week (danielchasehooper.com)](https://news.ycombinator.com/item?id=40239164)
 
 ## PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)
 
@@ -470,9 +500,14 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 - [Emergent Garden - Life simulations, neural networks, cellular automata, and other emergent programs](https://www.youtube.com/@EmergentGarden)
 - [3DSage - I make 3D printing, 3D coding, 3D animation, and beyond!](http://www.youtube.com/@3DSage)
 
+## Platforms for learning
+
+- [Excercism - C](https://exercism.org/tracks/c), [Exercism - C++](https://exercism.org/tracks/cpp)
+
 ## Interesting videos
 
 - [Emergent Garden - Code that Writes Code and ChatGPT](https://www.youtube.com/watch?v=c9c5a4IsjOA)
+- [Sonia Kolasinska - C++ vs Rust - Impl vs Dyn - Arm vs x86](https://www.youtube.com/watch?v=q5jpDh6INKQ)
 
 ## Usefull links
 
