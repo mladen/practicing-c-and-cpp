@@ -6,6 +6,7 @@
     - [Pointers (of course)](#pointers-of-course)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Advices](#advices)
+  - [Talks](#talks)
   - [Making games](#making-games)
     - [General](#general)
     - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
@@ -181,6 +182,7 @@
 - [ ] [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
 - [ ] [AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
 - [ ] [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
+- [ ] [Tsoding Daily - OOP in Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE)
 
 ### Pointers (of course)
 
@@ -190,6 +192,7 @@
 - [ ] [Low Level Learning - are "smart pointers" actually smart?](https://www.youtube.com/watch?v=tSIBKys2eBQ)
 - [ ] [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
 - [ ] [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
+- [ ] [Mults - Explaining Pointers Until I Go Insane](https://www.youtube.com/watch?v=qclZUQYZTzg)
 
 ### Stack, Heap, Memory, etc.
 
@@ -219,11 +222,19 @@
 - [ ] [The Downsides Of C++ | Prime Reacts](https://www.youtube.com/watch?v=nNSUxac6vGo)
 - [ ] [Acerola - Game Development Tutorials Are LYING To You](https://www.youtube.com/watch?v=BJvoaBeqVm0)
 
+## Talks
+
+- [ ] [CppCon - Bjarne Stroustrup - The Evolution of C++: Past, Present, and Future](https://www.youtube.com/watch?v=JBjjnqG0BP8)
+- [ ] [CppCon - CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+
 ## Making games
 
 ### General
 
 - [ ] [My GameDev Pal - My 1 Year Game Dev Journey - From School to Sea of Thieves](https://www.youtube.com/watch?v=FH6oEwmEgnk)
+- [ ] [The Simplest Game - You don't need libraries to write a game engine in C++ | OpenGL | Devlog](https://www.youtube.com/watch?v=soUenw9JdDY)
+- [ ] [Code Imposter - OpenGL (2024) for the Absolute Beginner #1... Why Bother?](https://www.youtube.com/watch?v=O46qKL7HJr8)
+- [ ] [Code Imposter - OpenGL (2024) for the Absolute Beginner #2... Our 1st C++ Program](https://www.youtube.com/watch?v=F9HWVUgrDSU)
 
 ### Making games and game engines in C and C++
 
@@ -309,6 +320,7 @@
 - [ ] [javidx9 - Coding Quickie: Isometric Tiles](https://www.youtube.com/watch?v=ukkbNKTgf5U)
 - [ ] [Hexel - Making my own 3D GAME ENGINE and GAME in 48 HOURS? C++ OPENGL](https://www.youtube.com/watch?v=NYW1TKZG-58)
 - [ ] [Byte of Michael - 3 Months of Learning Game Development](https://www.youtube.com/watch?v=x5wndRdBowo)
+- [ ] [Gamefromscratch - RayLib 5 Released - The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=hr5fYMgjNiE)
 
 ### Advices about making games in C and C++
 
@@ -388,7 +400,9 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ### Ideas for games
 
+- Lunar lander
 - Breakout
+- Tanks or some other 2D shooter but make it peaceful :)
 
   - [Nathan Baggs - I made the same game in Assembly, C and C++](https://www.youtube.com/watch?v=2eeXj-ck9VA)
 
