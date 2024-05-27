@@ -3,12 +3,15 @@
 - [Practicing C, C++ (in general as well as game dev etc.)](#practicing-c-c-in-general-as-well-as-game-dev-etc)
   - [Roadmaps](#roadmaps)
   - [C and C++ tutorials](#c-and-c-tutorials)
+    - [General](#general)
+    - [Tutorials](#tutorials)
+    - [Debugging](#debugging)
     - [Pointers (of course)](#pointers-of-course)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Advices](#advices)
   - [Talks](#talks)
   - [Making games](#making-games)
-    - [General](#general)
+    - [General](#general-1)
     - [Making games and game engines in C and C++](#making-games-and-game-engines-in-c-and-c)
     - [Advices about making games in C and C++](#advices-about-making-games-in-c-and-c)
     - [Theory (mathematics + physics)](#theory-mathematics--physics)
@@ -28,6 +31,22 @@
 - [ ] [MyCodingDays - Roadmap for C++ Software Engineer in 2023](https://www.youtube.com/watch?v=_M-xELrWTQ0)
 
 ## C and C++ tutorials
+
+### General
+
+- [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
+- [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
+- [x] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
+  - Assembly (1949) [Imperative Programming]
+  - C (1972) [Imperative Programming]
+  - Python (1991) [Imperative Programming]
+  - PyTorch (2016) [Differentiable Programming]
+  - Haskell (1990) [Functional Programming]
+  - Coq (1989) [Dependently Typed]
+  - Verilog (1984) | VHDL (1980) [Hardware]
+- [ ] [Acerola - Game Development Tutorials Are LYING To You](https://www.youtube.com/watch?v=BJvoaBeqVm0)
+
+### Tutorials
 
 - [ ] [Eskil Steenberg - Modern C development with Visual studio in 2023.](https://www.youtube.com/watch?v=CxKujAuz2Vw)
 - [ ] [Eskil Steenberg - How I program C (2016)](https://www.youtube.com/watch?v=443UNeGrFoM)
@@ -184,6 +203,13 @@
 - [ ] [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
 - [ ] [Tsoding Daily - OOP in Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE)
 
+### Debugging
+
+- [ ] [Low Level Learning - you need to stop using print debugging (do THIS instead)](https://www.youtube.com/watch?v=3T3ZDquDDVg)
+- [ ] [Low Level Learning - GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
+- [ ] [CppCon - Greg Law - Give me 15 minutes & I'll change your view of GDB](https://www.youtube.com/watch?v=PorfLSr3DDI)
+- [ ] [John Hammond - Intro to Debugging w/ GDB (PicoCTF 2022 #11 'gdb-test-drive')](https://www.youtube.com/watch?v=Tmdnsre9z7s)
+
 ### Pointers (of course)
 
 - [ ] [Low Level Learning - you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
@@ -207,20 +233,11 @@
   - Don't use C++ features just because they exist
     - Use them because they solve a problem you have.
   - Learn a type safe language like Rust.
+- [ ] [Low Level Learning - how NASA writes space-proof code](https://www.youtube.com/watch?v=GWYhtksrmhE)
+- [ ] [Low Level Learning - how Google writes gorgeous C++](https://www.youtube.com/watch?v=6lU11IHfJgo)
 - [ ] [The Cherno - BEST WAY to read and understand code](https://www.youtube.com/watch?v=XTZVbmz7LpY)
-- [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
-- [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
-- [ ] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
-  - Assembly (1949) [Imperative Programming]
-  - C (1972) [Imperative Programming]
-  - Python (1991) [Imperative Programming]
-  - PyTorch (2016) [Differentiable Programming]
-  - Haskell (1990) [Functional Programming]
-  - Coq (1989) [Dependently Typed]
-  - Verilog (1984) | VHDL (1980) [Hardware]
 - [ ] [CodeBeauty - What is "using namespace std" and why is it considered a BAD PRACTICE? C++ Programming Questions](https://www.youtube.com/watch?v=etQX4Mme2f4)
 - [ ] [The Downsides Of C++ | Prime Reacts](https://www.youtube.com/watch?v=nNSUxac6vGo)
-- [ ] [Acerola - Game Development Tutorials Are LYING To You](https://www.youtube.com/watch?v=BJvoaBeqVm0)
 
 ## Talks
 
@@ -235,6 +252,7 @@
 - [ ] [The Simplest Game - You don't need libraries to write a game engine in C++ | OpenGL | Devlog](https://www.youtube.com/watch?v=soUenw9JdDY)
 - [ ] [Code Imposter - OpenGL (2024) for the Absolute Beginner #1... Why Bother?](https://www.youtube.com/watch?v=O46qKL7HJr8)
 - [ ] [Code Imposter - OpenGL (2024) for the Absolute Beginner #2... Our 1st C++ Program](https://www.youtube.com/watch?v=F9HWVUgrDSU)
+- [ ] [SentinelK - C++ Game Engine Tutorial - Episode 1 - Intro and Architecture](https://www.youtube.com/watch?v=TBsOLrAFcuA)
 
 ### Making games and game engines in C and C++
 
