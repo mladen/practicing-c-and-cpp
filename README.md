@@ -395,6 +395,8 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 ## PROJECT IDEAS (let's try to make them in C for now; then in C++ maaybee)
 
+- [Gradience - Teaching myself C so I can build a particle simulation](https://www.youtube.com/watch?v=NorXFOobehY)
+
 ### Sorting algorithms
 
 - [Fireship - Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
@@ -445,6 +447,9 @@ https://en.wikipedia.org/wiki/Rotation_matrix
   - [3DSage - Let's Program Doom - Part 2](https://www.youtube.com/watch?v=fRu8kjXvkdY)
   - [Bisqwit - Creating a Doom-style 3D engine in C (2015)](https://www.youtube.com/watch?v=HQYsFshbkYw)
   - [Bisqwit - I wrote an OpenGL first-person demo for DOS (256 colors, dithering, OSMesa) (2011)](https://www.youtube.com/watch?v=vkUwT9U1GzA)
+
+- 3D engine in C++
+  - [javidx9 - Code-It-Yourself! First Person Shooter (Quick and Simple C++)](https://www.youtube.com/watch?v=xW8skO7MFYw)
 
 ### Ideas for games
 
