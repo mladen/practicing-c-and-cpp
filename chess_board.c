@@ -1,3 +1,6 @@
+// Check out https://symbl.cc/en/collections/chess-symbols/ for chess symbols
+
+// C program to print the chess board
 #include <stdio.h>
 #include <locale.h>
 #include <wchar.h>

@@ -1,3 +1,5 @@
+// Check out https://symbl.cc/en/unicode-table/ for the list of Unicode Symbols
+
 #include <stdio.h>
 #include <locale.h>
 #include <wchar.h>
