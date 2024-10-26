@@ -1,3 +1,5 @@
+// NOTE: Compile using 'gcc -o circle circle.c -lGL -lGLU -lglut -lm'
+
 // C program to demonstrate
 // drawing a circle using
 // OpenGL
