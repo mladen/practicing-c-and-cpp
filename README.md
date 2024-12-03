@@ -22,6 +22,7 @@
     - [Creative project ideas](#creative-project-ideas)
     - [Ideas for games](#ideas-for-games)
   - [Machine learning in C/C++](#machine-learning-in-cc)
+  - [Software](#software)
   - [Interesting channels](#interesting-channels)
   - [Platforms for learning](#platforms-for-learning)
   - [Interesting videos](#interesting-videos)
@@ -512,8 +513,14 @@ https://en.wikipedia.org/wiki/Rotation_matrix
   - [ ] 12. Do we even need Garbage Collector anymore? (22K views, 1 month ago, 1:57:57)
   - [ ] 13. Neural Network in C that Recognizes Shapes (23K views, 1 month ago, 3:43:48)
 
+## Software
+
+- [Dear ImGui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ## Interesting channels
 
+- [AngeTheGreat](https://www.youtube.com/@AngeTheGreat)
+- [PezzzasWork](https://www.youtube.com/@PezzzasWork)
 - [mCoding - programming, mathematics, Leetcode](https://www.youtube.com/@mCoding)
 - [Emergent Garden - Life simulations, neural networks, cellular automata, and other emergent programs](https://www.youtube.com/@EmergentGarden)
 - [3DSage - I make 3D printing, 3D coding, 3D animation, and beyond!](http://www.youtube.com/@3DSage)
