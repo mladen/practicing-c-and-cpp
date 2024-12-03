@@ -36,8 +36,21 @@
 ### General
 
 - [ ] [Low Level Game Dev - How To Start or Continue Learning C++](https://www.youtube.com/watch?v=20GWt8DdJRc)
-- [ ] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
-- [ ] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
+- [x] [SyncMain - 15 Years Writing C++ - Advice for new programmers](https://www.youtube.com/watch?v=37VZu3b045k)
+- [x] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
+  - CodeCademy (why: structured learning)
+  - KhanAcademy.org (why: mathematics etc. and some programming)
+  - Codewars and HackerRank if we have some experience (why: to check out new languages, practice etc.)
+  - Git
+  - [TheCherno](https://www.youtube.com/@TheCherno) on YouTube
+  - [LearnOpenGL.com](https://learnopengl.com/)
+  - [C++ Weekly With Jason Turner](https://www.youtube.com/@cppweekly)
+  - [TALK: CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+    - [BOOK: Richard Fabian - Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
+  - [Molly Rocket - Molly Rocket](https://www.youtube.com/@MollyRocket)
+    - https://substack.com/@cmuratori
+  - [Humble Bundle](https://www.humblebundle.com)
+  - [BOOK: Al Sweigart - Automate the Boring Stuff - Free to read!](https://automatetheboringstuff.com/)
 - [x] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
   - Assembly (1949) [Imperative Programming]
   - C (1972) [Imperative Programming]
