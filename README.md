@@ -41,7 +41,7 @@
 - [x] [SyncMain - Learning Resources for Aspiring Programmers | Recommendations for Getting Started and Getting Better](https://www.youtube.com/watch?v=uyvgYPkX_gM)
   - CodeCademy (why: structured learning)
   - KhanAcademy.org (why: mathematics etc. and some programming)
-  - Codewars and HackerRank if we have some experience (why: to check out new languages, practice etc.)
+  - [Codewars](https://www.codewars.com/) and [HackerRank](https://www.hackerrank.com/) if we have some experience (why: to check out new languages, practice etc.)
   - Git
   - [TheCherno](https://www.youtube.com/@TheCherno) on YouTube
   - [LearnOpenGL.com](https://learnopengl.com/)
