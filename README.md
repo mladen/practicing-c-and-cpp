@@ -516,6 +516,7 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 ## Software
 
 - [Dear ImGui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [Nothings stb - stb single-file public domain libraries for C/C++](https://github.com/nothings/stb)
 
 ## Interesting channels
 
