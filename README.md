@@ -8,6 +8,7 @@
     - [Debugging](#debugging)
     - [Pointers (of course)](#pointers-of-course)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
+  - [Books](#books)
   - [Advices](#advices)
   - [Talks](#talks)
   - [Making games](#making-games)
@@ -265,6 +266,18 @@
 
 - [ ] [Alex Hyett - Stack vs Heap Memory - Simple Explanation](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 - [ ] [Core Dumped - WHY IS THE STACK SO FAST?](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+
+## Books
+
+- [x] [ANTSHIV ROBOTICS - Top 4 Recommended books to learn C](https://www.youtube.com/watch?v=wCWE-x7TSI4)
+  - Brian J. Gough, Richard M. Stallman (foreword) - An Introduction to GCC: For the GNU Compilers GCC and G++ [Amazon link here](https://www.amazon.com/Introduction-GCC-GNU-Compilers/dp/0954161793)
+  - Dennis Ritchie, Brian Kernighan - C Programming Language [Amazon link here](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+  - Kenneth Reek - Pointers on C [Amazon link here](https://www.amazon.ca/gp/product/0673999866)
+  - Richard M. Stallman, Roland McGrath - Gnu Make: A Program for Directing Recompilation [Amazon link here](https://www.amazon.ca/gp/product/1882114825)
+    - NOTE: I should probably use CMake instead of GNU Make
+  - Noel Kalicharan - Data Structures In C [Amazon link here](https://www.amazon.ca/gp/product/1438253273)
+  - William Shotts - The Linux Command Line, 2nd Edition: A Complete Introduction [Amazon link here](https://www.amazon.ca/gp/product/1593279523)
+  - Michael Kerrisk - The Linux Programming Interface: A Linux and UNIX System Programming Handbook [Amazon link here](https://www.amazon.ca/gp/product/1593272200)
 
 ## Advices
 
