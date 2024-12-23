@@ -32,6 +32,14 @@
 ## Roadmaps
 
 - [ ] [MyCodingDays - Roadmap for C++ Software Engineer in 2023](https://www.youtube.com/watch?v=_M-xELrWTQ0)
+- [x] [Low Level Learning - before you code, learn how computers work](https://www.youtube.com/watch?v=97i2BAUw5Xc)
+  - Learn C
+    - Teaches how to work with memory
+    - Project: Write an HTTP server (teaches HTTP RFC, HTTP parser, writing code defensively; teaches networking)
+  - Learn Assembly variant and how the CPU works at the instruction level
+    - "Object dump" (objdump) some piece of code, go to the main function and reverse engineer how it works
+  - Reverse Engineering basics
+  - ESP32
 
 ## C and C++ tutorials
 
