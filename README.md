@@ -329,6 +329,8 @@
 - [ ] [AngeTheGreat - Major Improvements to Steam Engine Simulator](https://www.youtube.com/watch?v=ndUyNJEk4ng)
 - [ ] [blackedout01 - Deriving 3D Rigid Body Physics and implementing it in C/C++ (with intuitions)](https://www.youtube.com/watch?v=4r_EvmPKOvY)
 - [ ] [Dave Churchill (playlist) - COMP 4300 - Intro to C++ Game Programming (2023-09)](https://www.youtube.com/playlist?list=PL_xRyXins84_Jf-aCh7chj47HR4oZLPwK)
+- [ ] [javidx9 / OneLoneCoder (playlist) - Code-It-Yourself! Tetris - Programming from Scratch (Quick and Simple C++)](https://www.youtube.com/watch?v=8OK8_tHeCIA&list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO)
+- [ ] [javidx9 / One Lone Coder (playlist) - NES Emulator From Scratch](https://www.youtube.com/watch?v=nViZg02IMQo&list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf)
 
   > 23 videos 50,930 views Last updated on 2 Jan 2024
   > Memorial University - Computer Science 4300 - Fall 2023
@@ -545,6 +547,7 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 - [PezzzasWork](https://www.youtube.com/@PezzzasWork)
 - [mCoding - programming, mathematics, Leetcode](https://www.youtube.com/@mCoding)
 - [Emergent Garden - Life simulations, neural networks, cellular automata, and other emergent programs](https://www.youtube.com/@EmergentGarden)
+- [javidx9 / One Lone Coder](https://www.youtube.com/@javidx9)
 - [3DSage - I make 3D printing, 3D coding, 3D animation, and beyond!](http://www.youtube.com/@3DSage)
 
 ## Platforms for learning
