@@ -7,6 +7,7 @@
     - [Tutorials](#tutorials)
     - [Debugging](#debugging)
     - [Pointers (of course)](#pointers-of-course)
+      - [Let's finally understand this thing](#lets-finally-understand-this-thing)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Books](#books)
   - [Advices](#advices)
@@ -269,6 +270,19 @@
 - [ ] [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
 - [ ] [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
 - [ ] [Mults - Explaining Pointers Until I Go Insane](https://www.youtube.com/watch?v=qclZUQYZTzg)
+
+#### Let's finally understand this thing
+```cpp
+#include <stdio.h>
+
+int main(void) {
+    int n = 50;
+    int *pointer_to_n = &n;
+}
+```
+- `n`: Stored at address (let's say) `0x100`, contains value `50`.
+- `pointer_to_n`: Stored at address (let's say) `0x200`, contains value `0x100` (address of `n`). \
+By dereferencing `pointer_to_n` (`*pointer_to_n`), you're accessing the value at `0x100`, which is `50`.
 
 ### Stack, Heap, Memory, etc.
 
