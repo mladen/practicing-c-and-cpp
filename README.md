@@ -8,6 +8,8 @@
     - [Debugging](#debugging)
     - [Pointers (of course)](#pointers-of-course)
       - [Let's finally understand this thing](#lets-finally-understand-this-thing)
+        - [Differences between pointers and addresses](#differences-between-pointers-and-addresses)
+        - [Example](#example)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Books](#books)
   - [Advices](#advices)
@@ -272,6 +274,21 @@
 - [ ] [Mults - Explaining Pointers Until I Go Insane](https://www.youtube.com/watch?v=qclZUQYZTzg)
 
 #### Let's finally understand this thing
+
+A pointer is a variable that stores the address of another variable.
+> Pointers contain addresses of variables and variables are stored in those addresses in memory.
+> Yes, that's correct! A pointer is like a "container" for an address, and the address tells you where in memory the actual variable resides.
+
+##### Differences between pointers and addresses
+| **Aspect**     | **Pointer**                                             | **Address**                               |
+| -------------- | ------------------------------------------------------- | ----------------------------------------- |
+| **Definition** | A variable that stores an address.                      | A specific memory location.               |
+| **Storage**    | Stored in memory like any other variable.               | Represents where something is stored.     |
+| **Type**       | Has a data type (e.g., `int *`, `float *`, etc.).       | Raw numeric value, no type information.   |
+| **Usage**      | Used to indirectly access or modify a variable's value. | Used as a reference to a memory location. |
+
+##### Example
+
 ```cpp
 #include <stdio.h>
 
@@ -280,6 +297,8 @@ int main(void) {
     int *pointer_to_n = &n;
 }
 ```
+
+In this code sample we have:
 - `n`: Stored at address (let's say) `0x100`, contains value `50`.
 - `pointer_to_n`: Stored at address (let's say) `0x200`, contains value `0x100` (address of `n`). \
 By dereferencing `pointer_to_n` (`*pointer_to_n`), you're accessing the value at `0x100`, which is `50`.
