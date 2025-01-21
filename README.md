@@ -10,6 +10,7 @@
       - [Let's finally understand this thing](#lets-finally-understand-this-thing)
         - [Differences between pointers and addresses](#differences-between-pointers-and-addresses)
         - [Example](#example)
+      - [Pointer which doesn't point to anything](#pointer-which-doesnt-point-to-anything)
     - [Stack, Heap, Memory, etc.](#stack-heap-memory-etc)
   - [Books](#books)
   - [Advices](#advices)
@@ -302,6 +303,16 @@ In this code sample we have:
 - `n`: Stored at address (let's say) `0x100`, contains value `50`.
 - `pointer_to_n`: Stored at address (let's say) `0x200`, contains value `0x100` (address of `n`). \
 By dereferencing `pointer_to_n` (`*pointer_to_n`), you're accessing the value at `0x100`, which is `50`.
+
+#### Pointer which doesn't point to anything
+A pointer doesn't always need a pointee, but for it to be meaningful or usable (especially with dereferencing), it must point to a valid memory location. Let’s break it down:
+```cpp
+int *p = NULL; // p points to nothing.
+
+if (p != NULL) {
+    *p = 10; // Safe because we check first.
+}
+```
 
 ### Stack, Heap, Memory, etc.
 
