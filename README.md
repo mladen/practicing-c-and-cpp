@@ -72,8 +72,7 @@
   - PyTorch (2016) [Differentiable Programming]
   - Haskell (1990) [Functional Programming]
   - Coq (1989) [Dependently Typed]
-  - Verilog (1984) | VHDL (1980) [Hardware]
-- [ ] [Acerola - Game Development Tutorials Are LYING To You](https://www.youtube.com/watch?v=BJvoaBeqVm0)
+  - Verilog (1984) and/or VHDL (1980) [Hardware]
 
 ### Tutorials
 
@@ -607,7 +606,7 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 
 Programming
 
-- https://godbolt.org/ - Code Explorer
+- https://godbolt.org/ (or https://gcc.godbolt.org/) - Code Explorer
 
 Visualization
 
