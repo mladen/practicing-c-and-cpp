@@ -1,3 +1,4 @@
+- [How much memory do int, char and other data types take in memory?](#how-much-memory-do-int-char-and-other-data-types-take-in-memory)
 - [Can C language return multiple values and if it can - how?](#can-c-language-return-multiple-values-and-if-it-can---how)
   - [1. Using Pointers](#1-using-pointers)
   - [2. Using `struct`](#2-using-struct)
@@ -5,6 +6,42 @@
   - [4. Using Dynamic Memory](#4-using-dynamic-memory)
   - [5. Using Global or Static Variables](#5-using-global-or-static-variables)
   - [Which Method to Use?](#which-method-to-use)
+## How much memory do int, char and other data types take in memory?
+
+The memory size of data types in C and C++ depends on the system architecture (32-bit or 64-bit) and the compiler. Here are typical sizes:
+
+| Data Type     | Typical Size (bytes) | Notes                                              |
+| ------------- | -------------------- | -------------------------------------------------- |
+| `char`        | 1                    | Always 1 byte, but can be signed or unsigned       |
+| `short`       | 2                    | At least 16 bits                                   |
+| `int`         | 4                    | At least 16 bits, typically 32 bits                |
+| `long`        | 4 or 8               | At least 32 bits (often 8 bytes on 64-bit systems) |
+| `long long`   | 8                    | At least 64 bits                                   |
+| `float`       | 4                    | IEEE 754 single-precision                          |
+| `double`      | 8                    | IEEE 754 double-precision                          |
+| `long double` | 8, 10, 12, or 16     | Depends on compiler and system                     |
+
+> NOTE: 1 Byte = 8 Bits
+
+To check sizes on your system, use:
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Size of int: %zu bytes\n", sizeof(int));
+    printf("Size of char: %zu bytes\n", sizeof(char));
+    printf("Size of short: %zu bytes\n", sizeof(short));
+    printf("Size of long: %zu bytes\n", sizeof(long));
+    printf("Size of long long: %zu bytes\n", sizeof(long long));
+    printf("Size of float: %zu bytes\n", sizeof(float));
+    printf("Size of double: %zu bytes\n", sizeof(double));
+    printf("Size of long double: %zu bytes\n", sizeof(long double));
+    return 0;
+}
+```
+
+Run this to see actual sizes on your machine!
 
 
 ## Can C language return multiple values and if it can - how?
