@@ -1,4 +1,5 @@
 - [How much memory do int, char and other data types take in memory?](#how-much-memory-do-int-char-and-other-data-types-take-in-memory)
+- [How much memory do pointers take?](#how-much-memory-do-pointers-take)
 - [Can C language return multiple values and if it can - how?](#can-c-language-return-multiple-values-and-if-it-can---how)
   - [1. Using Pointers](#1-using-pointers)
   - [2. Using `struct`](#2-using-struct)
@@ -43,6 +44,32 @@ int main() {
 
 Run this to see actual sizes on your machine!
 
+## How much memory do pointers take?
+
+Pointers store memory addresses, so their size depends on the system architecture:  
+
+| Architecture | Pointer Size |
+| ------------ | ------------ |
+| 32-bit       | 4 bytes      |
+| 64-bit       | 8 bytes      |
+
+> NOTE: 1 Byte = 8 Bits
+
+All pointers (`int*`, `char*`, `double*`, etc.) have the same size on a given system because they store addresses, not values.  
+
+You can check pointer sizes on your system using:  
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Size of int*: %zu bytes\n", sizeof(int*));
+    printf("Size of char*: %zu bytes\n", sizeof(char*));
+    printf("Size of double*: %zu bytes\n", sizeof(double*));
+    printf("Size of void*: %zu bytes\n", sizeof(void*));
+    return 0;
+}
+```
 
 ## Can C language return multiple values and if it can - how?
 
