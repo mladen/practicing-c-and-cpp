@@ -65,6 +65,12 @@
     - https://substack.com/@cmuratori
   - [Humble Bundle](https://www.humblebundle.com)
   - [BOOK: Al Sweigart - Automate the Boring Stuff - Free to read!](https://automatetheboringstuff.com/)
+- [x] [SyncMain - Escape "Tutorial Hell" - Advice for new programmers](https://www.youtube.com/watch?v=Z-keFfxMB1Y)
+  - Learn to Divide and Conquer
+  - Don't stop trying; Learn documentation (MDN for JS, learncpp.com for C++ etc.)
+  - Debugging
+  - Check your assumptions (sometimes code gets changed, sometimes documentation lies)
+  - Play with your code and experiment (tweak the code, try different things; check webpages in different browsers; rotate graphics in a different way, change colors etc.)
 - [x] [Lex Friedman - Programming languages that everyone should learn | George Hotz and Lex Fridman](https://www.youtube.com/watch?v=XlvfHOrF26M)
   - Assembly (1949) [Imperative Programming]
   - C (1972) [Imperative Programming]
@@ -275,7 +281,7 @@
 
 #### Let's finally understand this thing
 
-A pointer is a variable that stores the address of another variable.
+A pointer is a variable that stores **the address** of another variable.
 > Pointers contain addresses of variables and variables are stored in those addresses in memory.
 > Yes, that's correct! A pointer is like a "container" for an address, and the address tells you where in memory the actual variable resides.
 
