@@ -1,7 +1,15 @@
+## Installation of needed libraries
+
+```bash
+# sudo apt-get install libglu1-mesa-dev freeglut3-dev
+sudo apt-get install freeglut3-dev
+```
+
 ## Compilation
 
 ```bash
-gcc -o circle circle.c -lGL -lGLU -lglut -lm
+gcc -o circle circle.c -lGL -lGLU -lglut -lm # for C
+g++ -o circle circle.cpp -lGL -lGLU -lglut -lm # for C++
 ```
 
 ## Execution
