@@ -11,7 +11,10 @@ CFLAGS = -Wall -Wextra -g
 TARGET = circle
 
 # Source files
-SRCS = circle.c
+SRCS = circle.c random.c other.c
+
+# Object files
+OBJS = $(SRCS:.c=.o)
 
 # Linker flags
 LDFLAGS = -lGL -lGLU -lglut -lm
@@ -22,9 +25,16 @@ all: $(TARGET)
 # Rule to build the final executable
 # This rule says: To build the target, we need the object files
 # Then it links those object files together using the compiler and linker flags
-$(TARGET): $(SRCS)
-	$(CC) $(CFLAGS) -o $(TARGET) $(SRCS) $(LDFLAGS)
+$(TARGET): $(OBJS)
+	$(CC) $(OBJS) -o $(TARGET) $(LDFLAGS)
 
+# Pattern rule for creating object files
+# If we have multiple .c files, for each .c file, create a corresponding .o file
+# The .o file is created by compiling the source, which is then linked
+# $< represents the first prerequisite (the .c file)
+# $@ represents the target (the .o file)
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
 
 # Clean up rule - removes all generated files
 # This allows you to start fresh with "make clean"
