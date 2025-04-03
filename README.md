@@ -5,6 +5,7 @@
   - [C and C++ tutorials](#c-and-c-tutorials)
     - [General](#general)
     - [Tutorials](#tutorials)
+    - [Build tools](#build-tools)
     - [Debugging](#debugging)
     - [Pointers (of course)](#pointers-of-course)
       - [Let's finally understand this thing](#lets-finally-understand-this-thing)
@@ -257,11 +258,43 @@
   - [ ] 101. What exactly is NULL? (170K views, 9 months ago, 18:06)
 
 - [ ] [Programming with Mosh - C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://www.youtube.com/watch?v=ZzaPdXTrSb8)
-- [ ] [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
+- [x] [VoxelRifts - My 2 Year Journey of Learning C, in 9 minutes](https://www.youtube.com/watch?v=lMvFWKHhVZ0)
 - [ ] [AshhadAhmad - Beginner to Pro in C++ in One Video! (1h 50min)](https://www.youtube.com/watch?v=UX5BGV3R1ao)
 - [ ] [Rachel Singh - Interfaces - C++ programming practice](https://www.youtube.com/watch?v=rUeS12swHP8)
 - [ ] [Tsoding Daily - OOP in Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE)
 
+### Build tools
+
+- [x] [Gary Explains - CMake Tutorial for Absolute Beginners - From GCC to CMake including Make and Ninja](https://www.youtube.com/watch?v=NGPo7mz1oa4)
+  - Makefile
+    - As a project increases in size so can its Makefile
+    - Add a cross platform options and flags and the complexity increases even more
+    - The Makefile for the Linux kernel is 2082 lines long
+    - So now we need to automate the creation of Makefiles so that Make can automate compiling of the source code!
+    - This is where CMake fits in. "Cmake" stands for "cross-platform"!
+    - NOTE: Example project that uses Makefile/make can be found [here (example1_simple_graphics)[./example1_simple_graphics]]
+  - CMake
+    - CMake uses a configuration file called CMakeLists.txt
+      - Define your project in CMakeLists.txt
+      - Run CMake ("cmake .") to create the Makefile
+      - Build your project using make ("make")
+      - Add code, fix things, etc. then jump to step 3. (re-run "make")
+      - If you add new .c files or alter the dependencies then jump to step 1. (re-run "cmake .")
+    - Out-of-source builds (is used by CMake)
+      - Traditionally, Makefile files are placed *in the same directory* as the source code.
+        - You go into the source code directory and run "make" (this is called an "in-source build")
+      - But CMake is different. The Makefile is generated *in a different* directory.
+        - The CMakeLists.txt file is *in the source directory*, but the automatically generated build files *are separate*, so as not to overwhelm your source directory
+          - Example (for, let's say /home/user/src/project):
+            - graphics.c
+            - CMakeLists.txt
+            - build/ (<- Step 1: Create this folder; Step 2: Go here and run "cmake .."; ".." is to pick up CMakeLists from the parent directory)
+              - (the following files are created by CMake (after running "cmake .."))
+              - Makefile (<-- Step 3: This is what you run "make" on)
+              - CMakeCache.txt
+              - cmake_install.cmake
+              - CMakeFiles/
+              - *graphics* (generated after running "make")
 ### Debugging
 
 - [ ] [Low Level Learning - you need to stop using print debugging (do THIS instead)](https://www.youtube.com/watch?v=3T3ZDquDDVg)
