@@ -378,6 +378,10 @@ if (p != NULL) {
 
 - [ ] [Alex Hyett - Stack vs Heap Memory - Simple Explanation](https://www.youtube.com/watch?v=5OJRqkYbK-4)
 - [ ] [Core Dumped - WHY IS THE STACK SO FAST?](https://www.youtube.com/watch?v=N3o5yHYLviQ)
+- [ ] [ArjanCodes - Every Developer Should Know This](https://www.youtube.com/watch?v=6jgu9tmbrrE)
+- [ ] [The Cherno - Stack vs Heap Memory in C++](https://www.youtube.com/watch?v=wJ1L2nSIV1s)
+- [ ] [The Coding Gopher - Stack vs Heap: The Memory Battle Explained](https://www.youtube.com/watch?v=9loizVWAk1M)
+- [ ] [Low Level Learning - wtf is “the stack” ?](https://www.youtube.com/watch?v=CRTR5ljBjPM)
 
 ## Books
 
