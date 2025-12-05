@@ -312,6 +312,9 @@
 - [ ] [Low Level Learning - you will never ask about pointer arithmetic after watching this video](https://www.youtube.com/watch?v=q24-QTbKQS8)
 - [ ] [Low Level Learning - so... what even is a "reference"?](https://www.youtube.com/watch?v=wro8Bb6JnwU)
 - [ ] [Low Level Learning - are "smart pointers" actually smart?](https://www.youtube.com/watch?v=tSIBKys2eBQ)
+- [ ] [Portfolio Courses - Pass By Reference | C++ Tutorial](https://www.youtube.com/watch?v=cxysUPZH65Y)
+- [ ] [Caleb Curry - C++ Pass by Value, Reference, Pointer Explained](https://www.youtube.com/watch?v=KHZU1dnK4n0)
+  - By default C++ passes by value (values are copied to the parameters) but there is one exception. Basically, C++ arrays decay to pointers when passed to functions.
 - [ ] [Dave's Garage - Master Pointers in C: 10X Your C Coding!](https://www.youtube.com/watch?v=IrGjyfBC-u0)
 - [ ] [The Cherno - POINTERS in C++](https://www.youtube.com/watch?v=DTxHyVn0ODg)
 - [ ] [Mults - Explaining Pointers Until I Go Insane](https://www.youtube.com/watch?v=qclZUQYZTzg)
