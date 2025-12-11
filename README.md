@@ -664,6 +664,9 @@ https://en.wikipedia.org/wiki/Rotation_matrix
 ## Platforms for learning
 
 - [Excercism - C](https://exercism.org/tracks/c), [Exercism - C++](https://exercism.org/tracks/cpp)
+- [LeetCode - C and C++](https://leetcode.com/problemset/all/?tags=C)
+- [HackerRank - C](https://www.hackerrank.com/domains/c), [HackerRank - C++](https://www.hackerrank.com/domains/cpp)
+- [Codewars - C](https://www.codewars.com/dashboard)
 
 ## Interesting videos
 
